@@ -1,0 +1,5 @@
+<entities anm2root="gfx/" version="5">
+    <entity anm2path="custom_gore.anm2" baseHP="0" boss="0" champion="0" collisionInterval="0" collisionDamage="0" collisionMass="8" collisionRadius="8" friction="1" id="1000" variant="163" subtype="2" name="Custom Gore" numGridCollisionPoints="0" shadowSize="3" stageHP="0">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0"/>
+    </entity>
+</entities>
